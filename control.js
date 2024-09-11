@@ -1,5 +1,11 @@
 // Olá mundo
 
-let mensagem = "Ola mundo";
+let lista = {
+    value: "Ler um livro",
+    checked: false,
+    log: (info) => {
+        console.log(info)
+    }
+}
 
-console.log(mensagem);
+lista.log(lista.value);

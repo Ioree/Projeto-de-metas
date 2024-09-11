@@ -11,7 +11,7 @@ Por exemplo o comando "console.log();" não pode ser escrita de forma diferente 
 ## Peça de uma linguagem 
 
 - [x] Comentários
-- [] Declaração de variáveis (Const, Let)
+- [x] Declaração de variáveis (Const, Let)
 - [] Operadores (atribuição, concatenação, matematicos, logicos)
 - [] tipos de dados ( Function, object, array)
 - [] Controle de fluxo (If/else)
@@ -29,6 +29,7 @@ Por exemplo o comando "console.log();" não pode ser escrita de forma diferente 
 
 - Strings (Textos que devem ser acompanhado por "", '' ou `` );
 - Number (Numeros sejam eles quebrados ou interiros mas os numeros quebrados deve tem . ao inves de ,);
+- booleano (True ou False)
 
 ## Escopos e Variaveis
 
@@ -44,3 +45,14 @@ Por exemplo o comando "console.log();" não pode ser escrita de forma diferente 
 
 Operadores de atribuição de valor
 - (=) Atribui um valor 
+
+Operadores de concatenação
+- (+) junta uma coisa a outra
+
+## Arrays e Objetos
+
+> **array**: Lista de dados que é acompanhado por [];
+
+> **objeto**: dado que tem uma propriedade e um valor é acompanhado por {};
+
+- Diferença entre metodo e funcão, Metodo esta dentro de um objeto e uma função não.
