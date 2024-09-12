@@ -53,6 +53,14 @@ Operadores de concatenação
 
 > **array**: Lista de dados que é acompanhado por [];
 
-> **objeto**: dado que tem uma propriedade e um valor é acompanhado por {};
+> **objeto**: Dado que tem uma propriedade e um valor é acompanhado por {};
 
 - Diferença entre metodo e funcão, Metodo esta dentro de um objeto e uma função não.
+
+
+## Estrutura de repetição
+
+- [x] while
+
+
+> **return**: Para a execução da funsão;
