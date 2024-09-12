@@ -61,6 +61,7 @@ Operadores de comparação
 ## Arrays e Objetos
 
 > **array**: Lista de dados que é acompanhado por [];
+- metodos de array: push, forEach, find
 
 > **objeto**: Dado que tem uma propriedade e um valor é acompanhado por {};
 
