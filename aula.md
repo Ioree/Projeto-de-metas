@@ -12,10 +12,11 @@ Por exemplo o comando "console.log();" não pode ser escrita de forma diferente 
 
 - [x] Comentários
 - [x] Declaração de variáveis (Const, Let)
-- [] Operadores (atribuição, concatenação, matematicos, logicos)
-- [x] tipos de dados ( Function, object, array)
-- [] Controle de fluxo (If/else)
-- [] estrutura de repetição (for, while)
+- [x] Operadores (atribuição, concatenação, matematicos, logicos)
+- [x] tipos de dados ( string, number, boolean )
+- [x] Estrutura de dados ( Function, object, array )
+- [x] Controle de fluxo (If/else)
+- [x] estrutura de repetição (for, while)
 
 ## Fases de resolução de um problema 
 
@@ -49,6 +50,14 @@ Operadores de atribuição de valor
 Operadores de concatenação
 - (+) junta uma coisa a outra
 
+Operadores de comparação 
+- (==) Compara um lado com outro lado
+- (!=) Checa se os lados são diferentes
+- (<) Checa se uma lado é menor que outro
+- (<=) Checa se uma lado é menor ou igual ao outro
+- (>) Checa se uma lado é maior que outro
+- (=>) Checa se uma lado é maior ou igual ao outro
+
 ## Arrays e Objetos
 
 > **array**: Lista de dados que é acompanhado por [];
@@ -69,6 +78,7 @@ Operadores de concatenação
 # Condicionais 
 
 - [x] switch
+- [x] If/Else
 
 ## Módulos em Node.js:
 
