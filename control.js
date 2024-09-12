@@ -1,11 +1,16 @@
 // Olá mundo
 
-let lista = {
-    value: "Ler um livro",
-    checked: false,
-    log: (info) => {
-        console.log(info)
-    }
+let meta = {
+    value: 'Ler um livro',
+    checked: true,
 }
 
-lista.log(lista.value);
+let metas = [
+    meta,
+    {
+        value: 'treinar 30 minutos por dia',
+        checked
+    }
+]
+
+console.log(metas[1].value)

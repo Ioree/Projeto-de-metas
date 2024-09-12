@@ -13,7 +13,7 @@ Por exemplo o comando "console.log();" não pode ser escrita de forma diferente 
 - [x] Comentários
 - [x] Declaração de variáveis (Const, Let)
 - [] Operadores (atribuição, concatenação, matematicos, logicos)
-- [] tipos de dados ( Function, object, array)
+- [x] tipos de dados ( Function, object, array)
 - [] Controle de fluxo (If/else)
 - [] estrutura de repetição (for, while)
 
