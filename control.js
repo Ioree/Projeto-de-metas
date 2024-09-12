@@ -1,8 +1,17 @@
 function start() {
-    let count = 0
-    while(count < 10){
-        console.log(count)
-        count ++
+    while(true){
+        let opcao = "sair"
+        switch(opcao) {
+            case "cadastrar":
+                console.log("Vamos cadastrar")
+                break
+            case "listar":
+                console.log("vamos listar")  
+                break
+            case "Sair":
+                console.log("Vamos sair")
+                return
+        }
     }
 }
 

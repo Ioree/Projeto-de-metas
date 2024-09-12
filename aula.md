@@ -64,3 +64,8 @@ Operadores de concatenação
 
 
 > **return**: Para a execução da funsão;
+
+
+# Condicionais 
+
+- [x] switch
